@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Game Prototype project**
 
-- 🌱 I’m currently learning **Networking and Cybersecurity**
+- 🌱 I’m currently learning **Game Development & C#**
 
 - 👨‍💻 All of my projects are available at [dev-tsupligeon.tech](dev-tsupligeon.tech)
 
