@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate junior developer from France</h3>
 
-- 🔭 I’m currently working on Game Prototype project
+- 🔭 I’m currently working on **a Game Prototype project**
 
 - 🌱 I’m currently learning **Networking and Cybersecurity**
 
